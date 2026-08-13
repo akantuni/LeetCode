@@ -83,4 +83,4 @@
 | 2879 | [Display the First Three Rows](https://github.com/akantuni/LeetCode/tree/master/2879)                     |
 | 3110 | [Score of a String](https://github.com/akantuni/LeetCode/tree/master/3110)                                |
 
-Problems solved: **79**
+Problems solved: **80**
