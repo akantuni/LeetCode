@@ -14,7 +14,8 @@
 | 14   | [Longest Common Prefix](https://github.com/akantuni/LeetCode/tree/master/14)                              |
 | 15   | [3Sum](https://github.com/akantuni/LeetCode/tree/master/15)                                               |
 | 19   | [Remove Nth Node From End of List](https://github.com/akantuni/LeetCode/tree/master/19)                   |
-| 20   | [Valid Parentheses](https://github.com/akantuni/LeetCode/tree/master/20)                                  |
+| 20   | [Valid Parentheses](https://github.com/akantuni/LeetCode/tree/master/20)          
+| 21   | [Merge Two Sorted Lists](https://github.com/akantuni/LeetCode/blob/master/21)
 | 26   | [Remove Duplicates from Sorted Array](https://github.com/akantuni/LeetCode/tree/master/26)                |
 | 27   | [Remove Element](https://github.com/akantuni/LeetCode/tree/master/27)                                     |
 | 28   | [Find the Index of the First Occurrence in a String](https://github.com/akantuni/LeetCode/tree/master/28) |
