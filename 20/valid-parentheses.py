@@ -1,19 +1,16 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        memo = {"]": "[", "}": "{", ")": "("}
+        memo = {
+            ")": "(",
+            "}": "{",
+            "]": "["
+        }
 
-        if len(s) % 2 != 0:
-            return False
-
-        opn = []
-        for char in s:
-            if memo.get(char) is not None:
-                if len(opn) == 0:
-                    return False
-                if opn[-1] != memo.get(char):
-                    return False
-                opn.pop(-1)
+        stack = []
+        for c in s:
+            if stack and stack[-1] == memo.get(c):
+                stack.pop()
             else:
-                opn.append(char)
+                stack.append(c)
         
-        return len(opn) == 0
+        return not stack
