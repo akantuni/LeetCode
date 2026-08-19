@@ -39,6 +39,7 @@
 | 143  | [Reorder List](https://github.com/akantuni/LeetCode/tree/master/143)                                      |
 | 144  | [Binary Tree Preorder Traversal](https://github.com/akantuni/LeetCode/tree/master/144)                    |
 | 145  | [Binary Tree Postorder Traversal](https://github.com/akantuni/LeetCode/tree/master/145)                   |
+| 152  | [Maximum Product Subarray](https://github.com/akantuni/LeetCode/tree/master/152)                   |
 | 169  | [Majority Element](https://github.com/akantuni/LeetCode/tree/master/169)                                  |
 | 206  | [Reverse Linked List](https://github.com/akantuni/LeetCode/tree/master/206)                               |
 | 226  | [Invert Binary Tree](https://github.com/akantuni/LeetCode/tree/master/226)                                |
@@ -84,4 +85,4 @@
 | 2879 | [Display the First Three Rows](https://github.com/akantuni/LeetCode/tree/master/2879)                     |
 | 3110 | [Score of a String](https://github.com/akantuni/LeetCode/tree/master/3110)                                |
 
-Problems solved: **81**
+Problems solved: **82**
