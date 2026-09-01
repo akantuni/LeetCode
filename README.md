@@ -21,6 +21,7 @@
 | 27   | [Remove Element](https://github.com/akantuni/LeetCode/tree/master/27)                                     |
 | 28   | [Find the Index of the First Occurrence in a String](https://github.com/akantuni/LeetCode/tree/master/28) |
 | 33   | [Search In Rotated Sorted Array](https://github.com/akantuni/LeetCode/tree/master/33) |
+| 39   | [Combination Sum](https://github.com/akantuni/LeetCode/tree/master/39) |
 | 43   | [Multiply Strings](https://github.com/akantuni/LeetCode/tree/master/43)                                   |
 | 50   | [Pow(x, n)](https://github.com/akantuni/LeetCode/tree/master/50)                                          |
 | 58   | [Length of Last Word](https://github.com/akantuni/LeetCode/tree/master/58)                                |
@@ -88,4 +89,4 @@
 | 2879 | [Display the First Three Rows](https://github.com/akantuni/LeetCode/tree/master/2879)                     |
 | 3110 | [Score of a String](https://github.com/akantuni/LeetCode/tree/master/3110)                                |
 
-Problems solved: **84**
+Problems solved: **85**
