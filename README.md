@@ -29,6 +29,7 @@
 | 67   | [Add Binary](https://github.com/akantuni/LeetCode/tree/master/67)                                         |
 | 69   | [Sqrt(x)](https://github.com/akantuni/LeetCode/tree/master/69)                                            |
 | 70   | [Climbing Stairs](https://github.com/akantuni/LeetCode/tree/master/70)                                    |
+| 71   | [Simplify Path](https://github.com/akantuni/LeetCode/tree/master/71)                                    |
 | 72   | [Edit Distance](https://github.com/akantuni/LeetCode/tree/master/72)                                      |
 | 82   | [Remove Duplicates from Sorted List II](https://github.com/akantuni/LeetCode/tree/master/82)              |
 | 83   | [Remove Duplicates from Sorted List](https://github.com/akantuni/LeetCode/tree/master/83)                 |
@@ -46,6 +47,7 @@
 | 169  | [Majority Element](https://github.com/akantuni/LeetCode/tree/master/169)                                  |
 | 206  | [Reverse Linked List](https://github.com/akantuni/LeetCode/tree/master/206)                               |
 | 226  | [Invert Binary Tree](https://github.com/akantuni/LeetCode/tree/master/226)                                |
+| 242  | [Valid Anagram](https://github.com/akantuni/LeetCode/tree/master/242)                                |
 | 268  | [Missing Number](https://github.com/akantuni/LeetCode/tree/master/268)                                    |
 | 295  | [Find Median from Data Stream](https://github.com/akantuni/LeetCode/tree/master/295)                      |
 | 347  | [Top K Frequent Elements](https://github.com/akantuni/LeetCode/tree/master/347)                           |
@@ -63,6 +65,7 @@
 | 1089 | [Duplicate Zeros](https://github.com/akantuni/LeetCode/tree/master/1089)                                  |
 | 1108 | [Defanging an IP Address](https://github.com/akantuni/LeetCode/tree/master/1108)                          |
 | 1143 | [Longest Common Subsequence](https://github.com/akantuni/LeetCode/tree/master/1143)                       |
+| 1154 | [Day of the Year](https://github.com/akantuni/LeetCode/tree/master/1154)                       |
 | 1207 | [Unique Number of Occurrences](https://github.com/akantuni/LeetCode/tree/master/1207)                     |
 | 1295 | [Find Numbers with Even Number of Digits](https://github.com/akantuni/LeetCode/tree/master/1295)          |
 | 1480 | [Running Sum of 1d Array](https://github.com/akantuni/LeetCode/tree/master/1480)                          |
@@ -89,4 +92,4 @@
 | 2879 | [Display the First Three Rows](https://github.com/akantuni/LeetCode/tree/master/2879)                     |
 | 3110 | [Score of a String](https://github.com/akantuni/LeetCode/tree/master/3110)                                |
 
-Problems solved: **85**
+Problems solved: **88**
