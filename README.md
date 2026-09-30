@@ -14,14 +14,14 @@
 | 14   | [Longest Common Prefix](https://github.com/akantuni/LeetCode/tree/master/14)                              |
 | 15   | [3Sum](https://github.com/akantuni/LeetCode/tree/master/15)                                               |
 | 19   | [Remove Nth Node From End of List](https://github.com/akantuni/LeetCode/tree/master/19)                   |
-| 20   | [Valid Parentheses](https://github.com/akantuni/LeetCode/tree/master/20)          
-| 21   | [Merge Two Sorted Lists](https://github.com/akantuni/LeetCode/blob/master/21)
-| 23   | [Merge k Sorted Lists](https://github.com/akantuni/LeetCode/blob/master/23)
+| 20   | [Valid Parentheses](https://github.com/akantuni/LeetCode/tree/master/20)                                  |
+| 21   | [Merge Two Sorted Lists](https://github.com/akantuni/LeetCode/blob/master/21)                             |
+| 23   | [Merge k Sorted Lists](https://github.com/akantuni/LeetCode/blob/master/23)                               |
 | 26   | [Remove Duplicates from Sorted Array](https://github.com/akantuni/LeetCode/tree/master/26)                |
 | 27   | [Remove Element](https://github.com/akantuni/LeetCode/tree/master/27)                                     |
 | 28   | [Find the Index of the First Occurrence in a String](https://github.com/akantuni/LeetCode/tree/master/28) |
-| 33   | [Search In Rotated Sorted Array](https://github.com/akantuni/LeetCode/tree/master/33) |
-| 39   | [Combination Sum](https://github.com/akantuni/LeetCode/tree/master/39) |
+| 33   | [Search In Rotated Sorted Array](https://github.com/akantuni/LeetCode/tree/master/33)                     |
+| 39   | [Combination Sum](https://github.com/akantuni/LeetCode/tree/master/39)                                    |
 | 43   | [Multiply Strings](https://github.com/akantuni/LeetCode/tree/master/43)                                   |
 | 50   | [Pow(x, n)](https://github.com/akantuni/LeetCode/tree/master/50)                                          |
 | 58   | [Length of Last Word](https://github.com/akantuni/LeetCode/tree/master/58)                                |
@@ -29,7 +29,7 @@
 | 67   | [Add Binary](https://github.com/akantuni/LeetCode/tree/master/67)                                         |
 | 69   | [Sqrt(x)](https://github.com/akantuni/LeetCode/tree/master/69)                                            |
 | 70   | [Climbing Stairs](https://github.com/akantuni/LeetCode/tree/master/70)                                    |
-| 71   | [Simplify Path](https://github.com/akantuni/LeetCode/tree/master/71)                                    |
+| 71   | [Simplify Path](https://github.com/akantuni/LeetCode/tree/master/71)                                      |
 | 72   | [Edit Distance](https://github.com/akantuni/LeetCode/tree/master/72)                                      |
 | 82   | [Remove Duplicates from Sorted List II](https://github.com/akantuni/LeetCode/tree/master/82)              |
 | 83   | [Remove Duplicates from Sorted List](https://github.com/akantuni/LeetCode/tree/master/83)                 |
@@ -42,21 +42,22 @@
 | 143  | [Reorder List](https://github.com/akantuni/LeetCode/tree/master/143)                                      |
 | 144  | [Binary Tree Preorder Traversal](https://github.com/akantuni/LeetCode/tree/master/144)                    |
 | 145  | [Binary Tree Postorder Traversal](https://github.com/akantuni/LeetCode/tree/master/145)                   |
-| 152  | [Maximum Product Subarray](https://github.com/akantuni/LeetCode/tree/master/152)                   |
-| 153  | [Find Minimum In Rotated Sorted Array](https://github.com/akantuni/LeetCode/tree/master/153)                   |
+| 152  | [Maximum Product Subarray](https://github.com/akantuni/LeetCode/tree/master/152)                          |
+| 153  | [Find Minimum In Rotated Sorted Array](https://github.com/akantuni/LeetCode/tree/master/153)              |
 | 169  | [Majority Element](https://github.com/akantuni/LeetCode/tree/master/169)                                  |
 | 206  | [Reverse Linked List](https://github.com/akantuni/LeetCode/tree/master/206)                               |
 | 226  | [Invert Binary Tree](https://github.com/akantuni/LeetCode/tree/master/226)                                |
-| 242  | [Valid Anagram](https://github.com/akantuni/LeetCode/tree/master/242)                                |
+| 242  | [Valid Anagram](https://github.com/akantuni/LeetCode/tree/master/242)                                     |
 | 268  | [Missing Number](https://github.com/akantuni/LeetCode/tree/master/268)                                    |
 | 295  | [Find Median from Data Stream](https://github.com/akantuni/LeetCode/tree/master/295)                      |
 | 347  | [Top K Frequent Elements](https://github.com/akantuni/LeetCode/tree/master/347)                           |
 | 392  | [Is Subsequence](https://github.com/akantuni/LeetCode/tree/master/392)                                    |
-| 417  | [Pacific Atlantic Water Flow](https://github.com/akantuni/LeetCode/tree/master/417)                                    |
+| 417  | [Pacific Atlantic Water Flow](https://github.com/akantuni/LeetCode/tree/master/417)                       |
 | 485  | [Max Consecutive Ones](https://github.com/akantuni/LeetCode/tree/master/485)                              |
 | 516  | [Longest Palindromic Subsequence](https://github.com/akantuni/LeetCode/tree/master/516)                   |
 | 647  | [Palindromic Substrings](https://github.com/akantuni/LeetCode/tree/master/647)                            |
 | 703  | [Kth Largest Element in a Stream](https://github.com/akantuni/LeetCode/tree/master/703)                   |
+| 867  | [Transpose Matrix](https://github.com/akantuni/LeetCode/tree/master/867)                                  |
 | 876  | [Middle of the Linked List](https://github.com/akantuni/LeetCode/tree/master/876)                         |
 | 938  | [Range Sum of BST](https://github.com/akantuni/LeetCode/tree/master/938)                                  |
 | 973  | [K Closest Points to Origin](https://github.com/akantuni/LeetCode/tree/master/973)                        |
@@ -65,7 +66,7 @@
 | 1089 | [Duplicate Zeros](https://github.com/akantuni/LeetCode/tree/master/1089)                                  |
 | 1108 | [Defanging an IP Address](https://github.com/akantuni/LeetCode/tree/master/1108)                          |
 | 1143 | [Longest Common Subsequence](https://github.com/akantuni/LeetCode/tree/master/1143)                       |
-| 1154 | [Day of the Year](https://github.com/akantuni/LeetCode/tree/master/1154)                       |
+| 1154 | [Day of the Year](https://github.com/akantuni/LeetCode/tree/master/1154)                                  |
 | 1207 | [Unique Number of Occurrences](https://github.com/akantuni/LeetCode/tree/master/1207)                     |
 | 1295 | [Find Numbers with Even Number of Digits](https://github.com/akantuni/LeetCode/tree/master/1295)          |
 | 1480 | [Running Sum of 1d Array](https://github.com/akantuni/LeetCode/tree/master/1480)                          |
@@ -92,4 +93,4 @@
 | 2879 | [Display the First Three Rows](https://github.com/akantuni/LeetCode/tree/master/2879)                     |
 | 3110 | [Score of a String](https://github.com/akantuni/LeetCode/tree/master/3110)                                |
 
-Problems solved: **88**
+Problems solved: **89**
