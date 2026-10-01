@@ -60,6 +60,7 @@
 | 516  | [Longest Palindromic Subsequence](https://github.com/akantuni/LeetCode/tree/master/516)                   |
 | 647  | [Palindromic Substrings](https://github.com/akantuni/LeetCode/tree/master/647)                            |
 | 703  | [Kth Largest Element in a Stream](https://github.com/akantuni/LeetCode/tree/master/703)                   |
+| 739  | [Daily Temperatures](https://github.com/akantuni/LeetCode/tree/master/739)                                |
 | 867  | [Transpose Matrix](https://github.com/akantuni/LeetCode/tree/master/867)                                  |
 | 876  | [Middle of the Linked List](https://github.com/akantuni/LeetCode/tree/master/876)                         |
 | 938  | [Range Sum of BST](https://github.com/akantuni/LeetCode/tree/master/938)                                  |
@@ -96,4 +97,4 @@
 | 2879 | [Display the First Three Rows](https://github.com/akantuni/LeetCode/tree/master/2879)                     |
 | 3110 | [Score of a String](https://github.com/akantuni/LeetCode/tree/master/3110)                                |
 
-Problems solved: **91**
+Problems solved: **92**
