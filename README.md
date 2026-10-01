@@ -25,6 +25,7 @@
 | 43   | [Multiply Strings](https://github.com/akantuni/LeetCode/tree/master/43)                                   |
 | 48   | [Rotate Image](https://github.com/akantuni/LeetCode/tree/master/48)                                       |
 | 50   | [Pow(x, n)](https://github.com/akantuni/LeetCode/tree/master/50)                                          |
+| 54   | [Spiral Matrix](https://github.com/akantuni/LeetCode/tree/master/54)                                      |
 | 58   | [Length of Last Word](https://github.com/akantuni/LeetCode/tree/master/58)                                |
 | 66   | [Plus One](https://github.com/akantuni/LeetCode/tree/master/66)                                           |
 | 67   | [Add Binary](https://github.com/akantuni/LeetCode/tree/master/67)                                         |
@@ -94,4 +95,4 @@
 | 2879 | [Display the First Three Rows](https://github.com/akantuni/LeetCode/tree/master/2879)                     |
 | 3110 | [Score of a String](https://github.com/akantuni/LeetCode/tree/master/3110)                                |
 
-Problems solved: **90**
+Problems solved: **91**
