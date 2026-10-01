@@ -78,6 +78,7 @@
 | 1704 | [Determine if String Halves Are Alike](https://github.com/akantuni/LeetCode/tree/master/1704)             |
 | 1741 | [Find Total Time Spent by Each Employee](https://github.com/akantuni/LeetCode/tree/master/1741)           |
 | 1757 | [Recyclable and Low Fat Products](https://github.com/akantuni/LeetCode/tree/master/1757)                  |
+| 1861 | [Rotating the Box](https://github.com/akantuni/LeetCode/tree/master/1861)                                 |
 | 1920 | [Build Array from Permutation](https://github.com/akantuni/LeetCode/tree/master/1920)                     |
 | 1929 | [Concatenation of Array](https://github.com/akantuni/LeetCode/tree/master/1929)                           |
 | 2225 | [Find Players With Zero or One Losses](https://github.com/akantuni/LeetCode/tree/master/2225)             |
@@ -97,4 +98,4 @@
 | 2879 | [Display the First Three Rows](https://github.com/akantuni/LeetCode/tree/master/2879)                     |
 | 3110 | [Score of a String](https://github.com/akantuni/LeetCode/tree/master/3110)                                |
 
-Problems solved: **92**
+Problems solved: **93**
