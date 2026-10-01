@@ -56,6 +56,7 @@
 | 392  | [Is Subsequence](https://github.com/akantuni/LeetCode/tree/master/392)                                    |
 | 417  | [Pacific Atlantic Water Flow](https://github.com/akantuni/LeetCode/tree/master/417)                       |
 | 485  | [Max Consecutive Ones](https://github.com/akantuni/LeetCode/tree/master/485)                              |
+| 498  | [Diagonal Traverse](https://github.com/akantuni/LeetCode/tree/master/498)                                 |
 | 516  | [Longest Palindromic Subsequence](https://github.com/akantuni/LeetCode/tree/master/516)                   |
 | 647  | [Palindromic Substrings](https://github.com/akantuni/LeetCode/tree/master/647)                            |
 | 703  | [Kth Largest Element in a Stream](https://github.com/akantuni/LeetCode/tree/master/703)                   |
