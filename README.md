@@ -95,8 +95,9 @@
 | 2703 | [Return Length of Arguments Passed](https://github.com/akantuni/LeetCode/tree/master/2703) |
 | 2704 | [To Be Or Not To Be](https://github.com/akantuni/LeetCode/tree/master/2704) |
 | 2724 | [Sort By](https://github.com/akantuni/LeetCode/tree/master/2724) |
+| 2768 | [Number of Black Blocks](https://github.com/akantuni/LeetCode/tree/master/2768) |
 | 2879 | [Display the First Three Rows](https://github.com/akantuni/LeetCode/tree/master/2879) |
 | 3071 | [Minimum Operations to Write the Letter Y on a Grid](https://github.com/akantuni/LeetCode/tree/master/3071) |
 | 3110 | [Score of a String](https://github.com/akantuni/LeetCode/tree/master/3110) |
 
-**Problems solved: 93**
+**Problems solved: 94**
